@@ -14,12 +14,12 @@ Therefore simple and small computing preformances are not sufficient and Powerfu
 To realize realtime applications however, most todays systems work on "best effort" algorthims. This means that if an encreas of requests are incomming, the process speed and Memory will be crutial to acheve realtime.
 
 My approach to adress these problems:
-* Creating a realtime Linux system wich can solve a number tasks under any surcomsatnces
-1. It shall be once created with the help of the Linux from Scratch (LFS) guide to get a better understanding of how Linux works under the hub.
-2. Second I want to create a Yokto project which realises the exact Linux system I have created with the Linux from skratch guide. The Goal is to keep the Linux system felible to changes and be able to migrate the project to other platforms along the way.
+1. Creating a realtime Linux system wich can solve a number tasks under any surcomsatnces
+* It shall be once created with the help of the Linux from Scratch (LFS) guide to get a better understanding of how Linux works under the hub.
+* Second I want to create a Yokto project which realises the exact Linux system I have created with the Linux from skratch guide. The Goal is to keep the Linux system felible to changes and be able to migrate the project to other platforms along the way.
 
-* Time Sensitive Networking (TSN): to make Ethernet Deterministic and to control the requests on a connected system
-* Loadbalancing: Distribute tasks over different devices, in case that one divice has ciritical capacy
+2. Time Sensitive Networking (TSN): to make Ethernet Deterministic and to control the requests on a connected system
+3. Loadbalancing: Distribute tasks over different devices, in case that one divice has ciritical capacy
 
 
 
