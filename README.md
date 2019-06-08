@@ -1,13 +1,14 @@
 # Realtime_Pi
 
-With this Project I want to create a embedded linux for the Raspberry Pi 3b and adress/solve some state of the art Topics such as Realtime linux, Time Sensitive Networking and Computational loadbalancing over ehternet.
+With this Project I want to create an embedded linux for the Raspberry Pi 3b and adress/solve some state of the art Topics such as Realtime computing (and its consequences), Time Sensitive Networking and Computational loadbalancing over ehternet.
 I will write a documentation along the way, and keep my curent work updated in this repository.
 
-The motivation of this project is to stay uptodate with modern upcoming industiral programming tasks.
-As the digitatlization if the world is drastically growing, my expreiance till today is that there is a generl lag of basic understanding what is to be expected and what can be realized. As software to a layman is often abstract, it is difficult to argue why certain steps are required in order to do propper coding, whereas common nowledge would recommand to do otherwise.
-Also a Peace of hardware can be shown and can be enphesised by its design. Software can never realy be seen, only tested by a user and either be aprooved or dissliked.
+The motivation of this project is to stay uptodate with modern industiral systems that bekomme everly grwoing complex.
+As the digitatlization of the world is drastically growing, my expreiance today is, that there is a general lag of basic understanding what is to be expected and what can be realized by mordern systems. As software to a layman is often abstract and it becomes difficult to argue why certain steps are required in order to do a propper system setup, whereas common nowledge would recommand to do otherwise.
+Also a piece of hardware can be shown and can be enphesised by its design. Software can never realy be seen, only tested by a user and either be aprooved or dissliked.
 
-In oder to stay uptoday with todays technologie, I have realized, that realtime computing is mostoften expected in modern application for exaple regarding IOT and autonomous driving. That is why I want to address some basics that need to soved first in order to realise these Tasks.
+In oder to stay uptoday with todays technologie, I have realized, that realtime computing is mostoften expected in modern application, for exaple regarding IOT and autonomous driving application. However, to realise realtime appilications a lot more has to be conseidered.
+That is why I want to address some basics that need to soved first in order to realise these Tasks.
 
 To realis IOT and/or Autonomous driving it can be observes that severl devices need to be connected. For IOT different Machines and for Autonomous driving diffent ECUs. Also as soon as the possibiliteis of what these connected devices can realise are understood, the application grow rappidlly.
 
