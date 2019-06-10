@@ -21,7 +21,7 @@ To adress this problem Loadbalancing needs to be addresses. That means that any 
 Summing up, To achieve realitme applications not only the devices need to be realitme capable. The hole system needs to be realtime capable and the system needs to smartly manage the requested tasks. 
 
 My approach to adress these problems:
-1. Creating a realtime Linux system wich can solve a number tasks under any surcomsatnces
+1. Creating a realtime Linux system which can solve a number tasks under any circumstance
 * It shall be once created with the help of the Linux from Scratch (LFS) guide to get a better understanding of how Linux works under the hub.
 * Second I want to create a Yokto project which realises the exact Linux system I have created with the Linux from skratch guide. The Goal is to keep the Linux system flexible to changes and be able to migrate the project to other platforms along the way.
 
