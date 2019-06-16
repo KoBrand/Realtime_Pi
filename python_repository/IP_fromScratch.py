@@ -5,6 +5,16 @@ import socket
 from struct import pack
 from uuid import getnode as get_mac
 
+
+def MAC_FRAME (destination_MAC, local_MAC, Protocol_IP):
+    FRAME = [
+        pack('!6B', *destination_MAC),
+        pack('!6B', *local_MAC),
+        pack('!H', *Protocol_IP)
+]
+    return FRAME
+
+
 dest_ip = [192, 168, 178, 1]  # [127, 0, 0, 1]
 local_mac = [int(("%x" % get_mac())[i:i+2], 16) for i in range(0, 12, 2)] # 216, 252, 147, 237, 223, 40
 local_ip = [192, 168, 178, 22]
