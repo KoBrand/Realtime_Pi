@@ -15,7 +15,8 @@
 
 #### 2.1 Yocto Project for Raspberry
 * [Raspberry Yocto Project](https://jumpnowtek.com/rpi/Raspberry-Pi-Systems-with-Yocto.html)
-###3. Realtime Kernel
+
+### 3. Realtime Kernel
 * [Realtime Linux Wiki (old)](https://rt.wiki.kernel.org/index.php/Main_Page)
 * [Realtime Linux Wiki (new) Linux Foundation](https://wiki.linuxfoundation.org/realtime/start)
 * [Realtime Applications for Linux](https://www.rtai.org/?Documentation___Articles___RTAI%3A_a_Beginner's_Guide)
