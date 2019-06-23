@@ -27,6 +27,8 @@
 
 ### 4. TSN
 * [PTP for Linux](https://github.com/openil/linuxptp/blob/master/README.org)
+* [TSN overview slides](https://de.slideshare.net/mobile/henrikau/elce16tsnhenrikauhandout)
+
 #### 4.1 TSN in Raspberry Pi
 * [PTP for Raspberry](https://github.com/twteamware/raspberrypi-ptp/blob/master/README.md)
 
