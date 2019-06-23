@@ -29,6 +29,8 @@
 * [PTP for Linux](https://github.com/openil/linuxptp/blob/master/README.org)
 * [TSN overview slides 1](https://de.slideshare.net/mobile/henrikau/elce16tsnhenrikauhandout)
 * [TSN overview slides 2 / PDF](https://www.netdevconf.org/2.2/slides/salim-tc-workshop10.pdf)
+* [TSN consortium](https://www.accesstsn.com/publications/)
+
 #### 4.1 TSN in Raspberry Pi
 * [PTP for Raspberry](https://github.com/twteamware/raspberrypi-ptp/blob/master/README.md)
 
@@ -42,7 +44,7 @@
 
 * [Create Server and Clients with C++](http://www.martinbroadhurst.com/server-examples.html)
 
-* [Video about opencourse Routing](https://youtu.be/JTQqmnVRToI)
+* [Video about opensource Routing](https://youtu.be/JTQqmnVRToI)
 
 ## Literature
 * LFS Book
