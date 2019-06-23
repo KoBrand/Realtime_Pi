@@ -42,6 +42,7 @@
 
 * [Create Server and Clients with C++](http://www.martinbroadhurst.com/server-examples.html)
 
+* [Video about opencourse Routing](https://youtu.be/JTQqmnVRToI)
 
 ## Literature
 * LFS Book
