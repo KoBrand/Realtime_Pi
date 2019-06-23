@@ -26,7 +26,7 @@
 * [Realtime on Raspberry information](https://emlid.com/raspberry-pi-real-time-kernel/)
 
 ### 4. TSN
-* (PTP for Linux)[https://github.com/openil/linuxptp/blob/master/README.org]
+* [PTP for Linux](https://github.com/openil/linuxptp/blob/master/README.org)
 #### 4.1 TSN in Raspberry Pi
 * [PTP for Raspberry](https://github.com/twteamware/raspberrypi-ptp/blob/master/README.md)
 
