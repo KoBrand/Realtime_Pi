@@ -46,6 +46,8 @@
 
 * [Video about opensource Routing](https://youtu.be/JTQqmnVRToI)
 
+* [How to Yocto](https://wiki.yoctoproject.org/wiki/Building_your_own_recipes_from_first_principles#Adding_new_recipes_to_the_build_system)
+
 ## Literature
 * LFS Book
 
