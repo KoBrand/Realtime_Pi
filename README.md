@@ -18,7 +18,7 @@ To realize real-time applications however, most today's systems work on "best ef
 However, to realize an interconnected realtime system, my opinion is, that not only the devices need to be real-time capable but also the network communication protocols. Also, real-time is often misunderstood. The common understanding of the work real-time is "really fast". The true deffinition, however, is that a task can bee realized (computed) under any circumstances in a certain time frame. Moreover, the classic Ethernet network, such systems usually operate on, is not real-time capable. If too many tasks are requested from I device, either the latency will increase or the task will be dropped and data-loss can be a consequence.
 To address this problem Load-balancing needs to be addresses. That means that any device must be able to compute any task, no matter where the request its originated from.
 
-Summing up, To achieve real-time applications not only the devices need to be real-time capable. The hole system needs to be real-time capable and the system needs to smartly manage the requested tasks. 
+Summing up, oo achieve real-time applications not only the devices need to be real-time capable, furthermore, the hole system needs to be real-time capable and the system needs to smartly manage the requested tasks. 
 
 My approach to address these problems:
 1. Creating a real-time Linux system which can solve a number tasks under any circumstance
