@@ -4,10 +4,10 @@ With this project I want to create an embedded Linux for the Raspberry Pi 3b and
 I will write a documentation along the way, and keep my current work updated in this repository.
 
 The motivation of this project is to stay up to date with modern industrial systems that become everly growing complex.
-As the digitalization of the world is drastically growing, my experience today is, that there is a general lag of basic understanding what is to be expected and what can be realized by modern systems. As software to a layman is often abstract and it becomes difficult to argue why certain steps are required in order to do a proper system setup, whereas common knowledge would recommend to do otherwise.
-Also a piece of hardware can be shown and can be emphasized by its design. Software can never really be seen, only tested by a user and either be approved or disliked.
+As the digitalization of the world is drastically growing, my experience today is, that there is a general lag of basic understanding what is to be expected and what can be realized by modern systems. As software to a layman is often abstract, it becomes difficult to argue why certain steps are required in order to do a proper system setup, whereas common knowledge would recommend to do otherwise.
+Also a piece of hardware can be shown and can be emphasized by its design. Software can never really be seen, only tested and either be approved or disliked.
 
-In order to stay up to day with today's technologies, I have realized, that real-time computing is most often expected in modern application, for example regarding Internet Of Things (IOT) and autonomous driving application. However, to realize real-time applications a lot more has to be considered.
+In order to stay up to day with today's technologies, I have realized, that real-time computing is most often expected in modern application, for example regarding Internet Of Things (IOT) and autonomous driving application. However, to realize real-time applications a lot more has to be considered than just realizing this on one component.
 That is why I want to address some basics that need to solved first in order to realize these tasks.
 
 To realize IOT and/or autonomous driving it can be observes that several devices need to be connected. For IOT different machines and for autonomous driving different Electronic Control Units (ECUs). Also as soon as the possibility of what these connected devices can realize are understood, the application grow rapidly.
