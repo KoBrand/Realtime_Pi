@@ -10,7 +10,7 @@ Also a piece of hardware can be shown and can be emphasized by its design. Softw
 In order to stay up to day with today's technologies, I have realized, that real-time computing is most often expected in modern application, for example regarding Internet Of Things (IOT) and autonomous driving applications. However, to realize real-time applications a lot more has to be considered than just realizing this on one component.
 That is why I want to address some basics that need to solved first in order to realize such tasks.
 
-To realize IOT and/or autonomous driving it can be observes that several devices need to be connected. For IOT different machines and for autonomous driving different Electronic Control Units (ECUs). Also as soon as the possibility of what these connected devices can realize are understood, the application grow rapidly.
+To realize IOT and/or autonomous driving it can be observes that several devices need to be connected. For IOT different machines and for autonomous driving different Electronic Control Units (ECUs). Also as soon as peolpe understand the possibilities of what these inter-connected systems can realize, the demand and the according applications grow rapidly.
 
 Therefore, simple and small computing performances are not sufficient and powerful servers need to be introduced.
 To realize real-time applications however, most today's systems work on "best effort" algorithms. This means that if an increase of requests are incoming, the process speed and memory will be crucial to achieve real-time.
